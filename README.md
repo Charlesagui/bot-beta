@@ -1,13 +1,5 @@
-Ollama Streamlit Chat Bot 🤖
-Una interfaz gráfica simple y efectiva para interactuar con modelos de lenguaje de Ollama usando Streamlit. Esta aplicación permite mantener conversaciones con el modelo LLaMA 2 a través de una interfaz web amigable.
-🚀 Características
-
-Interfaz web intuitiva con Streamlit
-Respuestas en tiempo real (streaming)
-Integración con Ollama API
-Soporte para el modelo LLaMA 2 (7B)
-Manejo de errores robusto
-Interfaz responsiva y amigable
+bot-beta 🤖
+Una interfaz gráfica simple y efectiva para interactuar con modelos de lenguaje de Ollama usando Streamlit. Su unico objetivo es testear de modo local el llm de OLlama.
 
 📋 Prerequisitos
 
